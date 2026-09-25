@@ -1,1 +1,15 @@
 .DS_Store
+Testing
+build
+log
+
+*.log.*
+*-asciinema
+*.pid
+*-profile
+
+result 
+build
+.direnv
+.cache
+lib/
